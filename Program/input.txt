@@ -1,0 +1,3 @@
+D1	Information Retrieval is an exciting subject. 
+D2	Maths is important in Information Retrieval. Maths and computing are related. 
+D3	Are you related to your family? How comes she knows your Family? Your Family should be hidden! 

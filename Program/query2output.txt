@@ -1,0 +1,8 @@
+languag		Q1
+will		Q1
+insist		Q1
+block		Q1
+document	Q2
+titl		Q2
+seper		Q2
+tab		Q2

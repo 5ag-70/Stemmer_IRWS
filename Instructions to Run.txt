@@ -1,0 +1,22 @@
+Commands For Compiling And Executing Java Programs
+
+Task1:
+Compile -> javac Stemmer.java
+Compile -> javac task1.java
+Run -> java task1
+
+
+Task2:
+Compile -> javac task2.java
+Run -> java task2 task1Output.Txt task2Output.Txt
+
+
+Task3:
+Compile -> javac task3.java
+Run -> java task3 task2Output.Txt task3Output.Txt
+
+
+Task4:
+Compile -> javac task4.java
+Run -> java task4 task3Output.Txt D1 D2
+
